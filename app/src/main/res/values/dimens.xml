@@ -1,0 +1,48 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="marginLeft">50dp</dimen>
+
+    <dimen name="marginL">10dp</dimen>
+    <dimen name="marginAL">0px</dimen>
+    <dimen name="marginBot">30dp</dimen>
+
+
+    <!-- Huge <dimen name="spaceWidthHuge">440px</dimen>
+    <dimen name="backSpaceWidthHuge">132px</dimen>
+    <dimen name="keyWidthHuge">88px</dimen>
+    <dimen name="keyHeightHuge">88px</dimen>   :)-->
+
+    <dimen name="spaceBetweenHuge">0dp</dimen>
+    <dimen name="spaceWidthHuge">465dp</dimen>
+    <dimen name="backSpaceWidthHuge">140dp</dimen>
+    <dimen name="keyWidthHuge">93dp</dimen>
+    <dimen name="keyHeightHuge">93dp</dimen>
+
+    <!--  <dimen name="spaceWidth">310dp</dimen>
+    <dimen name="backSpaceWidthLarge">93dp</dimen>
+    <dimen name="keyWidth">62dp</dimen>
+    <dimen name="keyHeight">62dp</dimen>
+    Large-->
+
+    <dimen name="spaceWidth">310dp</dimen>
+    <dimen name="backSpaceWidthLarge">93dp</dimen>
+    <dimen name="keyWidth">62dp</dimen>
+    <dimen name="keyHeight">62dp</dimen>
+    <dimen name="spaceBetween">0dp</dimen>
+
+    <!-- Medium-->
+    <dimen name="spaceWidthMedium">150dp</dimen>
+    <dimen name="backSpaceWidthMedium">45dp</dimen>
+    <dimen name="keyWidthMedium">30dp</dimen>
+    <dimen name="keyHeightMedium">30dp</dimen>
+    <dimen name="spaceBetweenMedium">0dp</dimen>
+
+    <!-- Small-->
+    <dimen name="spaceWidthSmall">75dp</dimen>
+    <dimen name="backSpaceWidthSmall">22.5dp</dimen>
+    <dimen name="keyWidthSmall">15dp</dimen>
+    <dimen name="keyHeightSmall">15dp</dimen>
+    <dimen name="spaceBetweenSmall">0dp</dimen>
+</resources>
